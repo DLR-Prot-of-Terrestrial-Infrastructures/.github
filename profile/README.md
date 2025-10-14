@@ -3,9 +3,9 @@
 **View of a highway between an airport and an ICE line** \
 Credit: [DLR (CC BY-NC-ND 3.0)](https://www.dlr.de/en/service/imprint)
 
-Welcome to the DLR-PI Github. We create holistic tools, processes, and tech to boost the resilience of critical organizations. Key projects include intelligent sensors for infrastructure monitoring and hazardous substance detection (especially CBRNE threats). Central to our approach is the digital twin—an accurate digital replica that uses real‑time data to analyze and predict system behavior in crises.
+Welcome to the DLR-PI Github. We create holistic tools, processes, and tech to boost the resilience of critical organizations. Key projects include intelligent sensors for infrastructure monitoring and hazardous substance detection (especially CBRNE threats). Central to our approach is the digital twin: An accurate digital replica that uses real‑time data to analyze and predict system behavior in crises.
 
-<div style="background-color: #00658b; padding: 20px; margin-top: 50px;"  width="100%">
+<div style="background-color: #00658b !important; padding: 20px; margin-top: 50px;"  width="100%">
     <h2>
         Contact
     </h2>
@@ -33,13 +33,13 @@ Welcome to the DLR-PI Github. We create holistic tools, processes, and tech to b
     </div>
 </div>
 
-<div style="background-color: #232627; padding: 20px;"  width="100%">
+<div style="background-color: #232627 !important; padding: 20px;"  width="100%">
     <div style="display: flex;">
         <div style="flex: 1 0 20%;">
-            <img src="./images/DLR_Signet_white.png" alt="Key Visual DLR-PI" height="128px"/>
+            <img src="./images/DLR_Signet_white.png" alt="Key Visual DLR-PI"/>
         </div>
         <div style="flex: 1 0 80%;">
-            <h1 style="vertical-align: middle !important;" height="128px">Institute for the Protection of Terrestrial Infrastructures</h3>
+            <h1 style="vertical-align: middle !important;">Institute for the Protection of Terrestrial Infrastructures</h3>
         </div>
         </div>
         <div style="flex: 1 0 50%;">
