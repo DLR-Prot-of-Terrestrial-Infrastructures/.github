@@ -12,6 +12,16 @@ Welcome to the DLR-PI Github. We create holistic tools, processes, and tech to b
     <div style="display: flex;">
         <div style="flex: 1 0 50%;">
             <div class="contact-detail">
+                <h3 class="name">Prof. Dr. Tina Comes</h3>
+                <div class="position">Co-Head of Institute</div>
+                <div class="company">German Aerospace Center (DLR)</div>
+                <div class="institute">Institute for the Protection of Terrestrial Infrastructures</div>
+                <div class="address">Rathausallee 12, 53757 Sankt Augustin</div>
+                <div class="country">Germany</div>
+            </div>
+        </div>
+        <div style="flex: 1 0 50%;">
+            <div class="contact-detail">
                 <h3 class="name"> Michael Langerbeins</h3>
                 <div class="position">Acting head of institute</div>
                 <div class="company">Ger­man Aerospace Cen­ter (DLR)</div>
@@ -20,33 +30,13 @@ Welcome to the DLR-PI Github. We create holistic tools, processes, and tech to b
                 <div class="country">Germany</div>
             </div>
         </div>
-        <div style="flex: 1 0 50%;">
-            <div class="contact-detail">
-                <h3 class="name">Prof. Dr.-Ing. Alexander Popp</h3>
-                <div class="position">Deputy Head of Institute</div>
-                <div class="company">German Aerospace Center (DLR)</div>
-                <div class="institute">Institute for the Protection of Terrestrial Infrastructures</div>
-                <div class="address">Rathausallee 12, 53757 Sankt Augustin</div>
-                <div class="country">Germany</div>
-            </div>
-        </div>
     </div>
 </div>
 
+## Links
+[Website](https://www.dlr.de/en/pi)
+
 <div style="background-color: #232627 !important; padding: 20px;"  width="100%">
-    <div style="display: flex;">
-        <div style="flex: 1 0 20%;">
-            <img src="./images/DLR_Signet_white.png" alt="Key Visual DLR-PI"/>
-        </div>
-        <div style="flex: 1 0 80%;">
-            <h1 style="vertical-align: middle !important;">Institute for the Protection of Terrestrial Infrastructures</h3>
-        </div>
-        </div>
-        <div style="flex: 1 0 50%;">
-            <div class="contact-detail">
-                <a href="https://www.dlr.de/en/pi/about-us/the-institute-for-the-protection-of-terrestrial-infrastructures">Website</a>
-            </div>
-        </div>
-    </div>
+    <img src="./images/DLR_Signet_white.png" width="50" alt="Key Visual DLR-PI"/>
 </div>
 
