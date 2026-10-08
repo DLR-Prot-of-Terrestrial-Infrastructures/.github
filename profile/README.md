@@ -13,7 +13,7 @@ Welcome to the DLR-PI Github. We create holistic tools, processes, and tech to b
         <div style="flex: 1 0 50%;">
             <div class="contact-detail">
                 <h3 class="name">Prof. Dr. Tina Comes</h3>
-                <div class="position">Co-Head of Institute</div>
+                <div class="position">Head of institute</div>
                 <div class="company">German Aerospace Center (DLR)</div>
                 <div class="institute">Institute for the Protection of Terrestrial Infrastructures</div>
                 <div class="address">Rathausallee 12, 53757 Sankt Augustin</div>
@@ -23,7 +23,7 @@ Welcome to the DLR-PI Github. We create holistic tools, processes, and tech to b
         <div style="flex: 1 0 50%;">
             <div class="contact-detail">
                 <h3 class="name"> Michael Langerbeins</h3>
-                <div class="position">Acting head of institute</div>
+                <div class="position">Deputy head of institute</div>
                 <div class="company">Ger­man Aerospace Cen­ter (DLR)</div>
                 <div class="institute">Institute for the Protection of Terrestrial Infrastructures</div>
                 <div class="address">Rathausallee 12, 53757 Sankt Augustin</div>
